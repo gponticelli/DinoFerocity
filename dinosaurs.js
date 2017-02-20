@@ -1,0 +1,3 @@
+var dinosaurs = [
+    { name: "triceratops" }
+]
